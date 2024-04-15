@@ -1,1 +1,91 @@
-    
+.dropdown{
+    background-color: black;
+    color: white;
+    padding: 10px 30px;
+    border: 3px solid gray;
+    margin-top: 10px;
+    width: 50px;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px lightgray;
+    text-shadow: 2px 2px 2px gray;
+    font-size: 20px;
+    font-variant: small-caps;
+    font-weight: bold;
+    font-family: "Noto Sans Khojki", sans-serif;
+    cursor: pointer;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+}
+.s{
+    background-color: black;
+    color: white;
+    padding: 10px 30px;
+    border: 3px solid gray;
+    margin-top: 10px;
+    width: 50px;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px lightgray;
+    text-shadow: 2px 2px 2px gray;
+    font-size: 20px;
+    font-variant: small-caps;
+    font-weight: bold;
+    font-family: "Noto Sans Khojki", sans-serif;
+    cursor: pointer;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+}
+.f{
+    background-color: black;
+    color: white;
+    padding: 10px 30px;
+    border: 3px solid gray;
+    margin-top: 10px;
+    width: 50px;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px lightgray;
+    text-shadow: 2px 2px 2px gray;
+    font-size: 20px;
+    font-variant: small-caps;
+    font-weight: bold;
+    font-family: "Noto Sans Khojki", sans-serif;
+    cursor: pointer;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+}
+.h{
+    background-color: black;
+    color: white;
+    padding: 10px 30px;
+    border: 3px solid gray;
+    margin-top: 10px;
+    width: 50px;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px lightgray;
+    text-shadow: 2px 2px 2px gray;
+    font-size: 20px;
+    font-variant: small-caps;
+    font-weight: bold;
+    font-family: "Noto Sans Khojki", sans-serif;
+    cursor: pointer;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+}
+
+ul{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+
+}
+
+li{
+    display: inline;
+}
