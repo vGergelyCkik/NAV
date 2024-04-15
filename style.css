@@ -1,3 +1,77 @@
+.dropdown{
+    background-color: black;
+    color: white;
+    padding: 10px 20px;
+    border: 3px solid gray;
+    margin-top: 10px;
+    width: 140px;
+    text-align: left;
+    border-radius: 10px;
+    font-size: 20px;
+    font-variant: small-caps;
+    font-weight: bold;
+    font-family: "Noto Sans Khojki", sans-serif;
+    cursor: pointer;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+}
+.s{
+    background-color: black;
+    color: white;
+    padding: 10px 20px;
+    border: 3px solid gray;
+    margin-top: 10px;
+    width: 140px;
+    text-align: left;
+    border-radius: 10px;
+    font-size: 20px;
+    font-variant: small-caps;
+    font-weight: bold;
+    font-family: "Noto Sans Khojki", sans-serif;
+    cursor: pointer;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+}
+.f{
+    background-color: black;
+    color: white;
+    padding: 10px 20px;
+    border: 3px solid gray;
+    margin-top: 10px;
+    width: 140px;
+    text-align: left;
+    border-radius: 10px;
+    font-size: 20px;
+    font-variant: small-caps;
+    font-weight: bold;
+    font-family: "Noto Sans Khojki", sans-serif;
+    cursor: pointer;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+}
+.h{
+    background-color: black;
+    color: white;
+    padding: 10px 20px;
+    border: 3px solid gray;
+    margin-top: 10px;
+    width: 140px;
+    text-align: left;
+    border-radius: 10px;
+    font-size: 20px;
+    font-variant: small-caps;
+    font-weight: bold;
+    font-family: "Noto Sans Khojki", sans-serif;
+    cursor: pointer;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+}
+
+
 ul {
     list-style-type: none;
     margin: 0;
@@ -21,3 +95,27 @@ ul {
 nav{
     background: black;
 }
+.dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    padding: 12px 16px;
+    z-index: 1;
+  }
+  
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+  <div class="dropdown">
+  <span>Mouse over me</span>
+  <div class="dropdown-content">
+    <p>Hello World!</p>
+  </div>
+</div>
